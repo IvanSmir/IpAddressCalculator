@@ -1,8 +1,8 @@
-package javaApp;
+package IpAddressCalculator;
 
 import java.util.Scanner;
-import javaApp.BinaryUtils;
-import javaApp.IpUtils;
+import IpAddressCalculator.BinaryUtils;
+import IpAddressCalculator.IpUtils;
 
 
 public class Calculator {
