@@ -1,4 +1,4 @@
-package javaApp;
+package IpAddressCalculator;
 
 
 public class BinaryUtils {
